@@ -1,7 +1,3 @@
-/*
- *
- * another one
- */
 #ifndef PI_H
 #define PI_H
 
