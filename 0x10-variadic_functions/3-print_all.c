@@ -3,9 +3,8 @@
 #include <stdio.h>
 
 /**
- * This includes a switch
- * print_all - prints anything in d code
- * @format: list of types of arguments passed to the function.,
+ * print_all - prints anything in the code
+ * @format: list of types of arguments passed to the function in this code
  */
 void print_all(const char * const format, ...)
 {
