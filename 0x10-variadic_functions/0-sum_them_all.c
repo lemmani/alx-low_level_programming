@@ -3,7 +3,7 @@
 
 /**
  * sum_them_all - Returns the sum of all its paramters. here it is
- * @n: The number of paramters passed to the function. the code 
+ * @n: The number of paramters passed to the function. the code
  * @...: A variable number of paramters to calculate the sum of. in the code
  * Return: If n == 0 - 0.
  *         Otherwise - the sum of all parameters.
