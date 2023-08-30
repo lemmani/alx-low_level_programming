@@ -10,7 +10,6 @@
  * @next: points to the next node in this code
  *
  * Description: singly linked list node structure for the code
- * Lahai
  */
 typedef struct listint_s
 {
