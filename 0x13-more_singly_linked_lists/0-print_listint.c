@@ -1,8 +1,9 @@
-#include "list.h"
+#include "lists.h"
 
 /**
- * print_listint - prints all the element of the linked list int he code
- * @h: linked list of type listint_t to print in this code
+ * print_listint - prints all the elements of a linked list in Lahai's code
+ * @h: linked list of type listint_t to print in Lahi's code
+ *
  * Return: number of nodes
  */
 size_t print_listint(const listint_t *h)

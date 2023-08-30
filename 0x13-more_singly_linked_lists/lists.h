@@ -6,10 +6,11 @@
 
 /**
  * struct listint_s - singly linked list
- * @n: integer in here
- * @next: points to the next node in this code
+ * @n: integer
+ * @next: points to the next node
  *
- * Description: singly linked list node structure for the code
+ * Description: singly linked list node structure
+ * for lahai
  */
 typedef struct listint_s
 {
